@@ -395,9 +395,9 @@
 }
 
 #card-2 {
-  background: #ff512f;
+  background: #131313;
   background: -webkit-linear-gradient(to right, #dd2476, #ff512f);
-  background: linear-gradient(to right, #dd2476, #ff512f);
+  /*background: linear-gradient(to right, #dd2476, #ff512f);*/
 }
 
 /* Mobile Responsive */
@@ -510,6 +510,19 @@
   justify-content: center;
   color: #fff;
   background-image: linear-gradient(to right, #00dbde 0%, #fc00ff 100%);
+  transition: 0.3s ease-in;
+}
+
+.services__card2 {
+  margin: 14px;
+  height: 406px;
+  width: 300px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+  background-image: linear-gradient(to right, #ffc13a 0%, #fc00ff 100%);
   transition: 0.3s ease-in;
 }
 
