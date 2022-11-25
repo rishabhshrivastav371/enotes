@@ -396,7 +396,7 @@
 
 #card-2 {
   background: #131313;
-  background: -webkit-linear-gradient(to right, #dd2476, #ff512f);
+  /* background: -webkit-linear-gradient(to right, #dd2476, #ff512f); */
   /*background: linear-gradient(to right, #dd2476, #ff512f);*/
 }
 
